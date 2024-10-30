@@ -1,10 +1,11 @@
-.biggerImg{
+.fimg{
     width: 690px;
     height: 690px;
     position: relative;
+    left: 658px;
     margin-top: -380px;
 }
-.phase2{
+.phase3{
     font-size: 16px;
     font-weight: 500;
     color: rgba(51, 51, 51, 1);
@@ -14,27 +15,27 @@
     width:60px;
     height: 28px;
     position: relative;
-    left: 900px;
+    left: 50px;
     top: -600px;
 }
-.bigger{
+.full{
     font-size: 40px;
     font-weight: 500;
     color: rgba(255, 255, 255, 1);
     position: relative;
-    left: 900px;
+    left: 50px;
     top: -630px;
-
 }
-.b1{
+.f1{
     color:rgba(239, 239, 232, 1); 
     font-size: 16px;
     font-weight: 400;
     position: relative;
-    left: 910px;
+    left: 60px;
     top: -630px;
-}
-.bfill{
+ }
+
+ .ffill{
     position: relative;
     right: 10px;
 }
