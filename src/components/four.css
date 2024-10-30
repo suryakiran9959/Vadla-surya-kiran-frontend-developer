@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(0, 22, 29, 1);
+}
+.tokenomics{
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    font-size: 40px;
+    font-weight: 500;
+    letter-spacing: 0.8;
+}
+.tparent>img{
+    width: 650px;
+    height: 510px;
+    margin-left: 15px;
+}
+.ta{
+    height: 280px;
+    width:450px;
+    background-color: rgba(12, 43, 47, 0.7);
+    backdrop-filter: blur(150px);
+    border-radius: 20px;
+    padding: 12px 56px 12px 56px;
+    margin-bottom: 20px;
+    position: relative;
+    left: 700px;
+    top: -500px;
+}
+.tb{
+    height: 130px;
+    width: 450px;
+    background-color: rgba(12, 43, 47, 0.7);
+    backdrop-filter: blur(15.7px);
+    border-radius: 20px;
+    padding: 12px 56px 12px 56px; 
+    position: relative;
+    left: 700px;
+    top: -506px;
+}
+.ta table,tbody,tr,td{
+    color: rgba(255, 255, 255, 1);
+    font-size:20px;
+    font-weight: 400;
+} 

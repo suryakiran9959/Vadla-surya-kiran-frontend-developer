@@ -1,0 +1,100 @@
+
+.imageContainer {
+    position: relative; 
+    display: inline-block;
+  }
+  
+  .bodyImage img {
+    display: block;
+    width: 100%; 
+    height: auto;
+  }
+  
+  .nav{
+    display:flex;
+    gap: 18px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid  #8BF9E833;
+    border-radius: 25px;
+    font-size: 20px;
+    position: relative;
+    bottom: 636px;
+    
+    width: 610px;
+    left: 25%;
+    background-color: #0C2B2FB2;
+    padding:15px;
+    font-family:sans-serif;
+
+  }
+  .nav,a{
+    text-decoration: none;
+    color:#B0FAFFB2;
+
+  }
+
+.rightNav{
+  display: inline-block;
+  position: absolute;
+  top:36px;
+  left: 1120px;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
+.whitepaper{
+  background-color:#B0F9FF;
+  border: 1px solid rgb(70, 227, 244);
+  margin-left: 17px;
+  color: black;
+  padding: 8px;
+  border-radius: 10px;
+}
+.centerBodyText{
+  position: absolute;
+  top: 50%; 
+  left: 50%; 
+  transform: translate(-50%, -50%); 
+   color: white;
+  font-size:50px;
+  margin-top:-25px;
+ 
+}
+.investment{
+  background-color:#B0F9FF;
+  border-radius: 80px;
+  margin-left: 16px;
+  color: black;
+   padding: 3px 12px 3px 12px;
+   font-weight: 500;
+
+}
+.meets{
+  margin-top: -39px;
+  font-weight: 500;
+  margin-left: -25px;
+
+}
+.empowering{
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  top: -65px;
+  color: #B0FAFFB2;
+  font-family:sans-serif; 
+}
+.open{
+  position: relative;
+  top: -83px;
+  background-color: #8BF9E833;
+  border-radius:14px;
+  font-size:22px;
+  width:140px;
+  text-align: center;
+  left: 120px;
+  padding: 6px 3px 6px 3px;
+  border: 1px solid #8BF9E833;
+  color: #FFFFFF;
+}
+
+  

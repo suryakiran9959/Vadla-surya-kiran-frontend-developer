@@ -1,0 +1,56 @@
+body{
+background-color:rgba(0, 22, 29, 1) ;
+
+}
+.roadmap{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+    margin-top: -320px;
+    margin-bottom: 70px;
+}
+.rimg{
+    width: 690px;
+    height: 690px;
+    position: relative;
+    left: 658px;
+}
+.phase{
+    font-size: 16px;
+    font-weight: 500;
+    color: rgba(51, 51, 51, 1);
+    padding: 6px 12px 6px 12px;
+    background-color: rgba(247, 247, 247, 1);
+    border-radius: 4px;
+    width:60px;
+    height: 28px;
+    position: relative;
+    left: 50px;
+    top: -600px;
+
+}
+.kicking{
+    font-size: 40px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+    position: relative;
+    left: 50px;
+    top: -630px;
+
+}
+
+.r1{
+   color:rgba(239, 239, 232, 1); 
+   font-size: 16px;
+   font-weight: 400;
+   position: relative;
+   left: 60px;
+   top: -630px;
+
+}
+
+.fill{
+    position: relative;
+    right: 10px;
+}
