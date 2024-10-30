@@ -2,10 +2,11 @@ body{
     background-color: rgba(0, 22, 29, 1);
 }
 .h1{
-    color:rgba(255, 255, 255, 1) ;
+    color:rgba(255, 255, 255, 1);
     font-size: 40px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    margin-top:100px;
 }
 .p{
 color: rgba(176, 250, 255, 0.7);

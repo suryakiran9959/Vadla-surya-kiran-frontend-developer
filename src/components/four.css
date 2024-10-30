@@ -7,6 +7,7 @@ body{
     font-size: 40px;
     font-weight: 500;
     letter-spacing: 0.8;
+    margin-top:100px;
 }
 .tparent>img{
     width: 650px;
