@@ -15,7 +15,7 @@
     width:60px;
     height: 28px;
     position: relative;
-    left: 50px;
+    left:100px;
     top: -600px;
 }
 .full{
@@ -23,7 +23,7 @@
     font-weight: 500;
     color: rgba(255, 255, 255, 1);
     position: relative;
-    left: 50px;
+    left: 100px;
     top: -630px;
 }
 .f1{
@@ -31,7 +31,7 @@
     font-size: 16px;
     font-weight: 400;
     position: relative;
-    left: 60px;
+    left: 108px;
     top: -630px;
  }
 
