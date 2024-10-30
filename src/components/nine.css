@@ -1,0 +1,55 @@
+.explore{
+    border: 0.2px solid rgb(136, 218, 237);
+    width: 960px;
+    height: 382px;
+    border-radius: 20px;
+    margin: auto;
+    box-shadow: 
+    0.99px 0px 4px rgb(136, 218, 237) inset,  /* Left */
+    -0.99px 0 4px rgba(76, 221, 253, 1) inset, /* Right */
+    0 -0.99px 4px rgba(76, 221, 253, 1) inset, /* Top */
+    0 0.99px 4px rgba(76, 221, 253, 1) inset;  /* Bottom */ 
+    
+}
+.explore>h3{
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+
+.dapp{
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+    color: rgba(98, 240, 254, 1);
+   
+}
+.ethai{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    color: rgba(176, 250, 255, 0.7);
+    border: 0px solid rgba(0, 194, 219, 0.5);
+    margin:0px 150px 0px 150px ;
+}
+
+.open9{
+    width:90px;
+    padding:9px 15px 9px 15px;
+    background-color: rgba(205, 252, 255, 1);
+    color: rgba(11, 42, 45, 1);
+    border: px solid rgba(76, 221, 253, 1);
+    box-shadow: 
+            1.5px 0px 6px rgba(76, 221, 253, 1) inset,  /* Left */
+            -1.5px 0 6px  rgba(76, 221, 253, 1) inset, /* Right */
+            0 -1.5px 6px  rgba(76, 221, 253, 1) inset, /* Top */
+            0 1.5px 6px  rgba(76, 221, 253, 1) inset;  /* Bottom */ 
+            
+
+    position: relative;
+    left:430px;
+    font-size: 17px;
+    font-weight: 500;
+    border-radius: 8px;
+}
