@@ -1,5 +1,6 @@
 
 import './App.css';
+import Eight from './components/eight';
 import Five from './components/five';
 import Four from './components/four';
 import One from './components/one';
@@ -18,6 +19,7 @@ function App() {
    <Five/>
    <Six/>
    <Seven/>
+   <Eight/>
    </>
   )
 }
