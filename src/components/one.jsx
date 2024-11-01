@@ -9,10 +9,10 @@ function One() {
                 <img src="/assets/body.png" alt="" />
               </div>
               <div className="nav">
-                <a href="Features">Features</a>
-                <a href="Why us">Why us</a>
-                <a href="Tokenomics">Tokenomics</a>
-                <a href="Roadmap">Roadmap</a>
+                <a href="#features">Features</a>
+                <a href="#why us">Why us</a>
+                <a href="#tokenomics">Tokenomics</a>
+                <a href="#roadmap">Roadmap</a>
               </div>
             <div className="rightNav">
                 <span>Log in</span>

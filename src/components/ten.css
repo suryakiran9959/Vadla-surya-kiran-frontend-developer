@@ -4,7 +4,7 @@
     margin-top: 60px;
     color: white;
     width: 100%;
-    height: 350px;
+    height: 376px;
     margin-top:200px;
 }
 .fa{
@@ -13,87 +13,93 @@
     left: 50px;
 }
 .fa>img{
-    height:45px;
-    width: 45px;
+    height:65px;
+    width:65px;
 }
 .fa>span{
-    font-size:35px;
+    font-size:45px;
     font-weight: 700;
     color: rgba(255, 255, 255, 1);
     position: relative;
-    left: 12px;
-    top: -11px;
+    left: 18px;
+    top: -14px;
 }
 .faimg{
     display: flex;
-   width:300px;
+   width:370px;
    justify-content: space-around;
     position: relative;
     top:18px;
-    left: -16px;
+    left: -9px;
     text-align: center;
     align-items: center;
+    gap: 12px;
 }
 .faimg1{
     background-color: rgba(12, 43, 47, 0.7);
     border-radius: 100%;
-    height:24px;
-    width:24px;
+    height:50px;
+    width:50px;
+    
 }
 .FaTelegramPlane{
     position: relative;
-    top:2.3px;
+    top:9px;
     right: 1.2px;
+    font-size: 30px;
 }
 
 .faimg2{
     background-color: rgba(12, 43, 47, 0.7);
-    height: 24px;
-    width: 24px; 
+    height:50px;
+    width:50px;
     border-radius:6px;
+    
 }
 .FaInstagram{
     position: relative;
-    top:3px;
+    top:9px;
     left:0.2px;
+    font-size: 30px;
 }
 .faimg3{
     background-color: rgba(12, 43, 47, 0.7);
-    height: 24px;
-    width: 24px; 
+    height: 50px;
+    width: 50px; 
     border-radius:6px; 
 }
 .FaXTwitter{
     position: relative;
-    top:3px;
+    top:9px;
     left:0.2px;
+    font-size: 30px;
 }
 
 .faimg4{
     background-color: rgba(12, 43, 47, 0.7);
-    height: 24px;
-    width: 24px;
+    height: 50px;
+    width: 50px;
     border-radius: 100%;
 }
 .FaFacebookF{
     position: relative;
-    top:4px;
+    top:10px;
+    font-size: 30px;
     
 }
 
 .faimg5{
     background-color: rgba(12, 43, 47, 0.7);
-    height: 24px;
-    width: 24px;
+    height:50px;
+    width:50px;
     border-radius:6px; 
 }
 .FaDiscord{
     position: relative;
-    top:3px;
+    top:9px;
     left:0.2px;
+    font-size: 30px;
 }
-
-
 
 
 .Designed{

@@ -6,7 +6,7 @@ function Four(){
       };
     return(
         <>
-    <h3 className="tokenomics">Tokenomics </h3>
+    <h3 className="tokenomics" id="tokenomics">Tokenomics </h3>
     <div className="tparent">
         <img src="/assets/Donut.png" alt="" />
         <div className="ta">

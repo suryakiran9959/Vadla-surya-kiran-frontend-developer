@@ -2,7 +2,7 @@ import "./third.css"
 function Third(){
     return(
         <>
-        <h1 className="h1">About EthAi</h1>
+        <h1 className="h1" id="why us">About EthAi</h1>
         <p className="p">At EthAi, we’re all about making crypto trading easier and more intuitive.We provide </p>
         <p className="p1"> tools that help traders keep up with all new market trends, track top traders’ movements.</p>
         <h3 className="read">Read more</h3>

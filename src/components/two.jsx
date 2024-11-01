@@ -2,7 +2,7 @@ import "./two.css"
 function Two(){
     return(
         
-        <div className="parent">
+        <div className="parent" id="features">
             <div className="child1">
               <img src="/assets/Rectangle 3.png" alt="" />
                   <h3>Trade Optimizer</h3>
